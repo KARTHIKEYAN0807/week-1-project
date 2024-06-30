@@ -1,1 +1,1 @@
-developed simple portfolio using html and css
+week 1 task
